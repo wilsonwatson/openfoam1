@@ -1,0 +1,6 @@
+/home1/06781/wpwatson/COE-347-SP21/openfoam1/cavity160
+Thu Mar  4 00:29:02 CST 2021
+Running blockMesh on /home1/06781/wpwatson/COE-347-SP21/openfoam1/cavity160
+Running checkMesh on /home1/06781/wpwatson/COE-347-SP21/openfoam1/cavity160
+Running icoFoam on /home1/06781/wpwatson/COE-347-SP21/openfoam1/cavity160
+Thu Mar  4 00:38:34 CST 2021
